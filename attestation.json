@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.bittune",
+  "repo": "NDesumeur/neodex-plugin-bittune-phone",
+  "version": "1.0.0",
+  "sha256": "7eb53510dce3b40fb9f547426fb5b4c60d26957d298d3f29c2f488619fd60efc",
+  "approvedAt": "2026-11-17T18:40:02.602Z",
+  "neobase": ">=4.0.0",
+  "signature": "gQo4rIrNLPeIPSZIF3HRSU1AChJ6c+YwpTosAgvQs7TzEmhmcCTGmxDnGnclEX1U4LBIQgK5QQyow2DXxrsAAA=="
+}
